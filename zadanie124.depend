@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611855780 source:c:\users\20436\git_sem3\zadanie124\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
